@@ -36,7 +36,7 @@
     <!-- HERO SECTION -->
     <section class="grid md:grid-cols-2 gap-8 items-center">
       <div>
-        <h2 class="text-3xl md:text-4xl font-extrabold leading-tight">Komputer sikhiye, naukari ya khud ka business shuru kijiye</h2>
+        <h2 class="text-3xl md:text-4xl font-extrabold leading-tight">Computer sikhiye, naukari ya khud ka business shuru kijiye</h2>
         <p class="mt-4 text-lg opacity-90">J K Nagar Computer Center mein practical training — MS Office, Excel (basic to advance), Tally, DCA/ADCA, Web Development, Python aur typing kurs. Short-term aur weekend batches available.</p>
 
         <div class="mt-6 flex gap-3 flex-wrap">
